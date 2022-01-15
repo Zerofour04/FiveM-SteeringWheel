@@ -1,0 +1,9 @@
+[16:54:56.122] [ INFO  ] Manual Transmission v5.3.0 (built May  8 2021 11:35:20) (d82aae2)
+[16:54:56.123] [ INFO  ] SHV API Game version: VER_1_0_1493_1_STEAM (44)
+[16:54:56.123] [ INFO  ] Running executable: C:\Users\ETM\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_b2189_GTAProcess.exe
+[16:54:56.123] [ INFO  ] FiveM detected
+[16:54:56.123] [WARNING] SHV API reported lower version than actual EXE version.
+[16:54:56.123] [WARNING]     EXE version     [VER_1_0_2189_0_STEAM] (63)
+[16:54:56.123] [WARNING]     SHV API version [VER_1_0_1493_1_STEAM] (44)
+[16:54:56.123] [WARNING]     Using EXE version, or highest supported version [VER_1_0_2189_0_STEAM] (63)
+[16:54:56.123] [ INFO  ] Script registered
