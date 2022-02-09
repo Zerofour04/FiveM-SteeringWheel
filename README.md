@@ -11,6 +11,7 @@ If you are the creator and don't want this resource to be here on GitHub, just c
 1. Rightclick:  FiveM
 2. Click: Open file path
 3. Go into the `FiveM ApplicationData`
+![image](https://user-images.githubusercontent.com/60815764/153277781-cddad2fe-1c06-4628-a6b1-9b9534087934.png)
 4. Create a `plugins` folder, maybe you already have the folder
 5. Put the `ManualTransmission` and the `Gears.asi` inside the `/plugins` folder.
 - _Steps to be taken by developers:_
